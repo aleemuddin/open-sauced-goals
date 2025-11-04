@@ -1,13 +1,13 @@
 [
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36030,
+    "stargazers_count": 36032,
     "open_issues_count": 20,
-    "forks_count": 1063
+    "forks_count": 1062
   },
   {
     "full_name": "lukehaas/RegexHub",
-    "stargazers_count": 2310,
+    "stargazers_count": 2315,
     "open_issues_count": 25,
     "forks_count": 119
   },
@@ -19,14 +19,14 @@
   },
   {
     "full_name": "tastejs/todomvc",
-    "stargazers_count": 28865,
-    "open_issues_count": 173,
-    "forks_count": 13778
+    "stargazers_count": 28868,
+    "open_issues_count": 175,
+    "forks_count": 13779
   },
   {
     "full_name": "SAP-archive/cloud-platform-iot-starterkit",
     "stargazers_count": 272,
     "open_issues_count": 8,
-    "forks_count": 183
+    "forks_count": 182
   }
 ]
