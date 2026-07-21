@@ -1,7 +1,7 @@
 [
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 35723,
+    "stargazers_count": 35717,
     "open_issues_count": 20,
     "forks_count": 1029
   },
@@ -21,12 +21,12 @@
     "full_name": "tastejs/todomvc",
     "stargazers_count": 28942,
     "open_issues_count": 71,
-    "forks_count": 13743
+    "forks_count": 13740
   },
   {
     "full_name": "SAP-archive/cloud-platform-iot-starterkit",
     "stargazers_count": 274,
     "open_issues_count": 8,
-    "forks_count": 178
+    "forks_count": 177
   }
 ]
